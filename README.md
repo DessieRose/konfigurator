@@ -1,12 +1,12 @@
-## Configurator
+# Configurator
 
 A configurator for a media consol with a built in vinyl player.
 
-# Installation
+## Installation
 
-# Project structure
+## Project structure
 
-# Team
+## Team
 
 - Wilma (DD)
 - Linn (DD)
