@@ -42,11 +42,9 @@ src/
 ## Team
 
 - Wilma (DD)
-- Linn (DD)
-- Simon (CG)
-- Arvid (CG)
-- Elin (CG)
-- Nathalie (WU)
-- Patricia (WU)
-
-
+- Linn S. (DD)
+- Simon Torstensson (CG)
+- Arvid Wallesten (CG)
+- Elin Ekeroth (CG)
+- Nathalie Rosenkvist (WU)
+- Patricia Loayza Frykberg (WU)
