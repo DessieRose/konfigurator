@@ -6,6 +6,7 @@ A configurator for a media consol with a built in vinyl player.
 
 ## Project structure
 
+```
 src/
 ├── App.jsx
 ├── main.jsx
@@ -36,6 +37,7 @@ src/
 └── assets/
     ├── models/                 # .glb/.gltf files
     └── textures/
+```
 
 ## Team
 
